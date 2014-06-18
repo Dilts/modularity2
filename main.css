@@ -134,31 +134,16 @@ a.no-page:hover {
 	color: grey;
 }
 
+/*Comment Strteam*/
 
-/*
-.number-link {
-	display: inline-block;
-	text-decoration: none;
-	padding: 5px 9px;
-	margin: 5px;
-	color: #ec828a;
-	border: solid 1px #ec828a;
-	border-width: 0 0 3px 0;
-}
-a.number-link:hover {
-	background-color: #fdd;
+.comment {
+	float: left;
 }
 
-.unadorned-link {
-	border-color: transparent;
-}
-a.unadorned-link:hover {
-	border-color: #fdd;
+.comment-content {
+	overflow: hidden;
 }
 
-.number-disabled {
-	margin: 5px 10px;
-	color: #ccc;
-	border-color: #ccc;
+.comment-contain {
+	clear: left;
 }
-*/
