@@ -36,3 +36,32 @@
 	list-style-type: none;
 	display: inline-block;
 }
+
+/*Buttons*/
+
+.button {
+	padding: 20px 40px;
+	display: inline-block;
+	color: white;
+	background-color: pink;
+	border-radius: 5px;
+	border: 0;
+	text-decoration: none;
+}
+
+.button-large {
+	padding: 30px 60px;
+	font-size: 160%;
+}
+
+.button-medium {
+	padding: 20px 40px;
+	font-size: 120%;
+}
+
+.button-small {
+	padding: 10px 30px;
+	font-size: 80%;
+}
+
+nav
