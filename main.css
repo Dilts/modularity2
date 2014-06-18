@@ -95,3 +95,70 @@
 
 /*Pagination*/
 
+.page {
+	display: inline-block;
+	color: pink;
+	padding: 5px;
+	text-decoration: none;
+	border-bottom: solid 3px pink;
+	margin: 5px;
+	width: 20px;
+	text-align: center;
+}
+
+.no-page {
+	color: pink;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+
+}
+
+.page-container li {
+	display: inline-block;
+
+}
+
+.page-selected {
+	color: grey;
+	padding: 5px 8px;
+	margin: 5px;
+	border-bottom: solid 3px grey;
+
+}
+
+a.page:hover {
+	color: grey;
+}
+a.no-page:hover {
+	color: grey;
+}
+
+
+/*
+.number-link {
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px 9px;
+	margin: 5px;
+	color: #ec828a;
+	border: solid 1px #ec828a;
+	border-width: 0 0 3px 0;
+}
+a.number-link:hover {
+	background-color: #fdd;
+}
+
+.unadorned-link {
+	border-color: transparent;
+}
+a.unadorned-link:hover {
+	border-color: #fdd;
+}
+
+.number-disabled {
+	margin: 5px 10px;
+	color: #ccc;
+	border-color: #ccc;
+}
+*/
