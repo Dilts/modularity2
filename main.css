@@ -1,10 +1,20 @@
 /* ADD YOUR STYLES HERE */
 
-.contain {
+/*.contain {
 	display: inline-block;
+	float: left;
 }
 
 .box {
-	margin: 0px 20px;
+	margin: 20px 20px;
 	text-align: center;	
+}*/
+
+.box {
+	float: left;
+	vertical-align: top;
+	margin-right: 5%;
+	text-align: block;
+	overflow: hidden;
 }
+
