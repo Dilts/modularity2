@@ -64,4 +64,34 @@
 	font-size: 80%;
 }
 
-nav
+/*Navigation*/
+
+.nav {
+	border-radius: 5px;
+	overflow: hidden;
+	float: left;
+}
+
+.button-hover li {
+	float: left;
+	list-style-type: none;
+	/*display: inline-block;*/
+	background-color: pink;
+	padding: 20px 40px;
+	/*border-left*/
+
+}
+
+.button-hover li a {
+	text-decoration: none;
+	color: white;
+}
+
+.nav ul {
+	padding: 0;
+	margin: 0;
+}
+.hover:hover {background-color: blue;}
+
+/*Pagination*/
+
