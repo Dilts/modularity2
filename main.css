@@ -18,3 +18,21 @@
 	overflow: hidden;
 }
 
+/*Vertically Spaced*/
+
+.vert-container {
+	height: 300px;
+	display: table;
+}
+.vert {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+
+/*Horizontal List*/
+
+.horizontal-list li {
+	list-style-type: none;
+	display: inline-block;
+}
